@@ -12,6 +12,8 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'monban'
 
+gem 'monban-generators'
+
 gem 'jquery-rails'
 
 gem 'turbolinks'
